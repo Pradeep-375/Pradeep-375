@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Pradeep</h1>
 
-<!--
-**Pradeep-375/Pradeep-375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Software Developer | Java | SQL | DSA
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pradeep-375&label=Profile%20Views&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering student
+- ☕ Learning Java and Object-Oriented Programming
+- 🗄️ Practicing SQL and Database Management
+- 🧠 Improving Data Structures & Algorithms
+- 💻 Solving problems on LeetCode
+- 🌐 Interested in Web Development
+- 🚀 Building real-world projects
+
+---
+
+## 🚀 Currently Exploring
+
+- ☕ Advanced Java
+- 🌱 Spring Boot
+- 🗄️ SQL
+- 🧠 Data Structures & Algorithms
+- 🌐 Full Stack Development
+- ☁️ Cloud Technologies
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Solve 300+ LeetCode problems
+- [ ] Improve Data Structures & Algorithms
+- [ ] Build 3+ real-world projects
+- [ ] Learn Spring Boot
+- [ ] Improve SQL skills
+- [ ] Contribute to Open Source
+- [ ] Get a Software Developer role
+
+---
