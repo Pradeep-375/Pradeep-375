@@ -149,16 +149,6 @@ and detects similarities between source code files.
 
 ---
 
-# 🟩 3D Contribution Graph
-
-<p align="center">
-
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph">
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
