@@ -129,18 +129,6 @@ searching, deleting and managing duplicate contacts.
 
 ---
 
-# 📜 Certifications
-
-| Certification | Issuer |
-|---|---|
-| Java (Basic) | HackerRank |
-| Python Certification | HackerRank |
-| AWS Cloud Foundations | AWS Academy |
-| AWS Cloud Developing | AWS Academy |
-| Software Engineering Job Simulation | JPMorgan Chase & Co. |
-| Cloud Computing & Web Development Internship | Agratas Pvt. Ltd. |
-
----
 
 # 📊 GitHub Statistics
 
@@ -195,28 +183,11 @@ searching, deleting and managing duplicate contacts.
 </p>
 ---
 
-# 🟩 3D Contribution Graph
+## 🟩 3D Contribution Graph
 
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph">
+</p>
 
 ---
 
