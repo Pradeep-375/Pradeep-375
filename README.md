@@ -65,37 +65,22 @@ problem solving, and building real-world applications.
 ---
 
 # 🛠️ Tech Stack
-
 ## 👨‍💻 Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css">
 </p>
-
----
-
 ## 🌐 Frameworks
-
 <p>
 <img src="https://skillicons.dev/icons?i=spring,flask,bootstrap">
 </p>
-
----
-
 ## 🗄️ Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb">
 </p>
-
----
-
 ## ☁️ Cloud & DevOps
-
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux">
 </p>
-
 ---
 
 # 🚀 Featured Projects
@@ -203,23 +188,35 @@ searching, deleting and managing duplicate contacts.
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeep-375&theme=github-dark&hide_border=true">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeep-375&theme=github-dark&hide_border=true&area=true" width="95%">
 </p>
-
 ---
 
 # 🟩 3D Contribution Graph
 
-<p align="center">
+name: GitHub-Profile-3D-Contrib
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph">
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
-</p>
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
 
 ---
 
