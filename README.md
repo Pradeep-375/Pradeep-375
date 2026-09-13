@@ -107,47 +107,12 @@ and detects similarities between source code files.
 
 ---
 
-## 🎓 Student Skill Tracker & Recommendation System
-
-A platform that stores student skill information and provides
-personalized technology and learning-path recommendations.
-
-### 🛠️ Tech Stack
-
-`Python` `Data Structures` `Recommendation System`
-
----
-
-## 📱 Contact Book Application
-
-A Python-based contact management application for adding,
-searching, deleting and managing duplicate contacts.
-
-### 🛠️ Tech Stack
-
-`Python` `Dictionaries`
-
----
-
 # 🏆 Achievements
 
 - 🥈 2nd Prize — District-Level Kabaddi Competition
 - 💻 Built multiple software development projects
 - 🧠 Practicing Data Structures & Algorithms
 - 🚀 Continuously learning modern software technologies
-
----
-
-# 📜 Certifications
-
-| Certification | Issuer |
-|---|---|
-| Java (Basic) | HackerRank |
-| AWS Cloud Foundations | AWS Academy |
-| AWS Cloud Developing | AWS Academy |
-| Software Engineering Job Simulation | JPMorgan Chase & Co. |
-| Cloud Computing & Web Development Internship | Agratas Pvt. Ltd. |
-
 ---
 
 # 📊 GitHub Statistics
@@ -155,8 +120,6 @@ searching, deleting and managing duplicate contacts.
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pradeep-375&show_icons=true&theme=dark&hide_border=true" alt="GitHub Statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-375&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
 
 </p>
 
