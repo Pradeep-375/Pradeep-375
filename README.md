@@ -65,30 +65,39 @@ problem solving, and building real-world applications.
 ---
 
 # 🛠️ Tech Stack
+
 ## 👨‍💻 Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css">
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" alt="Languages">
 </p>
+
 ## 🌐 Frameworks
+
 <p>
-<img src="https://skillicons.dev/icons?i=spring,flask,bootstrap">
+<img src="https://skillicons.dev/icons?i=spring,flask,bootstrap" alt="Frameworks">
 </p>
+
 ## 🗄️ Databases
+
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases">
 </p>
+
 ## ☁️ Cloud & DevOps
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="Cloud and DevOps">
 </p>
+
 ---
 
 # 🚀 Featured Projects
 
 ## 🔍 Smart Code Plagiarism Detector
 
-An educator-focused application that analyzes source code files
-and detects similarities between programming submissions.
+An intelligent application that analyzes programming submissions
+and detects similarities between source code files.
 
 ### 🛠️ Tech Stack
 
@@ -129,14 +138,25 @@ searching, deleting and managing duplicate contacts.
 
 ---
 
+# 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| Java (Basic) | HackerRank |
+| AWS Cloud Foundations | AWS Academy |
+| AWS Cloud Developing | AWS Academy |
+| Software Engineering Job Simulation | JPMorgan Chase & Co. |
+| Cloud Computing & Web Development Internship | Agratas Pvt. Ltd. |
+
+---
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pradeep-375&show_icons=true&theme=dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Pradeep-375&show_icons=true&theme=dark&hide_border=true" alt="GitHub Statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-375&layout=compact&theme=dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-375&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
 
 </p>
 
@@ -146,7 +166,7 @@ searching, deleting and managing duplicate contacts.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Pradeep-375&theme=dark&hide_border=true">
+<img src="https://streak-stats.demolab.com/?user=Pradeep-375&theme=dark&hide_border=true" alt="GitHub Streak">
 
 </p>
 
@@ -158,7 +178,7 @@ searching, deleting and managing duplicate contacts.
 
 <a href="https://leetcode.com/u/PradeepMedaboina/">
 
-<img src="https://leetcard.jacoblin.cool/PradeepMedaboina?theme=dark&font=Baloo&ext=heatmap">
+<img src="https://leetcard.jacoblin.cool/PradeepMedaboina?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Statistics">
 
 </a>
 
@@ -171,6 +191,16 @@ searching, deleting and managing duplicate contacts.
 <img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode">
 
 </a>
+
+</p>
+
+---
+
+# 🟩 3D Contribution Graph
+
+<p align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph">
 
 </p>
 
