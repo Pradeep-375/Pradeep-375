@@ -176,21 +176,6 @@ searching, deleting and managing duplicate contacts.
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeep-375&theme=github-dark&hide_border=true&area=true" width="95%">
-</p>
----
-
-## 🟩 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph">
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
