@@ -115,16 +115,6 @@ and detects similarities between source code files.
 - 🚀 Continuously learning modern software technologies
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pradeep-375&show_icons=true&theme=dark&hide_border=true" alt="GitHub Statistics">
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
